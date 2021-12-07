@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102065083474",
+    "project_id": "fir-ProyectoPizza_sjj",
+    "storage_bucket": "fir-ProyectoPizza_ssj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102065083474:android:7f0fe3e8ae0fa17e4b7b8b",
+        "android_client_info": {
+          "package_name": "com.example.ProyectoPizza_ssj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102065083474-1v85j0goo4jvp2q3cks2oim9cq2j5avh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqt-5p3ZXfUD_c1EJ79IM7fNXPyRRBd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102065083474-1v85j0goo4jvp2q3cks2oim9cq2j5avh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
